@@ -80,6 +80,8 @@ A community-maintained list of projects building on [Miden](https://miden.xyz/ec
 | Front End Starter Template | Development | Frontend starter template for building Miden dApps | –                                                     | [Github](https://github.com/ngjupeng/miden-starter-template)         |
 | Counter dApp               | Development | Simple counter dApp with smart contract            | [Website](https://miden-counter-contract.vercel.app/) | [Github](https://github.com/partylikeits1983/miden-counter-contract) |
 | MASM Starter Template      | Development | Smart contract starter template                    | –                                                     | [Github](https://github.com/partylikeits1983/masm-project-template)  |
+| MASM VS Code Extension     | Development | Miden Language Support for Visual Studio Code      | [Website](https://marketplace.visualstudio.com/items?itemName=novara.vscode-miden-asm&ssr=false#review-details)                                                     | [Github](https://github.com/novara-fi/vscode-miden-asm)  |
+
 
 ### Contributing
 
